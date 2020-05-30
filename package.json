@@ -1,8 +1,8 @@
 {
   "name": "inkdrop-display-date-format",
-  "main": "./lib/inkdrop-display-date-format",
+  "main": "./lib/inkdrop-display-date-format.js",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Display Date format Tweak for Inkdrop.",
   "keywords": [],
   "repository": "https://github.com/inkdropapp/inkdrop-display-date-format",
   "license": "MIT",
