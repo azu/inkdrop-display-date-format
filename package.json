@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Display Date format Tweak for Inkdrop.",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/inkdrop-display-date-format",
+  "repository": "https://github.com/azu/inkdrop-display-date-format",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
