@@ -1,0 +1,16 @@
+{
+  "name": "inkdrop-display-date-format",
+  "main": "./lib/inkdrop-display-date-format",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/inkdrop-display-date-format",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.28",
+    "event-kit": "^2.5.3"
+  }
+}
